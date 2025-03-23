@@ -1,4 +1,4 @@
-This Jupyter Notebook implements a simple neural network classifier for the MNIST dataset. The MNIST dataset contains images of handwritten digits (0-9) and is commonly used for training various image processing systems.
+This Jupyter Notebook implements a simple neural network classifier for the MNIST dataset with *86%* accuracy. The MNIST dataset contains images of handwritten digits (0-9) and is commonly used for training various image processing systems.
 
 ## Dataset
 
